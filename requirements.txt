@@ -1,0 +1,19 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+
+# Imbalanced data handling
+imblearn
+
+# Gradient boosting models
+xgboost
+lightgbm
+catboost
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter support
+notebook
